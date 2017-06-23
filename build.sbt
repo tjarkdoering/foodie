@@ -1,5 +1,5 @@
 name := "scalatags-rx-example"
-scalaVersion := "2.11.8"
+scalaVersion := "2.12.2"
 
 libraryDependencies += "com.timushev" %%% "scalatags-rx" % "0.3.0"
 
